@@ -58,11 +58,24 @@ body {
 }
 
 .titulo-img {
-   
+    background-image: url('background/back3.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .titulo-index {
-   
+    width: 550px;
+    font-size: 72px;
+    font-family: Italian;
+    color: #fff;
+    background-color: cyan;
+    background-color: #0a9077b3;
+    border: 2px solid;
+    text-align: center;
 }
  
 .wrapper {
